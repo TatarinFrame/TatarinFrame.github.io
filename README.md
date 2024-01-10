@@ -1,1 +1,1 @@
-tatarinframe.github.io
+TatarinFrame.github.io
