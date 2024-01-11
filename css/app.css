@@ -53,3 +53,7 @@
 .menu-hover-lines .active a::after {
   width: 100%;
 }
+.footer-border {
+  border-top: 1px solid #000; /* Пример стиля рамки*/
+  padding: 10px 0; /* Пример добавления отступов, чтобы рамка выглядела лучше */
+}
